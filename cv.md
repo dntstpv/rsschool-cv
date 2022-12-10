@@ -13,7 +13,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * HTML
 * CSS
 * JavaScript Basics
-* Git
+* Git, GitHub
 ***
 ## Code example:
 ```
